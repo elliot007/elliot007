@@ -1,7 +1,2 @@
 This is my first file in local git repo
-<<<<<<< HEAD
-"nigth is dark and full of terror"
-=======
-"nigth is dark and full terror"
-"The king in the north"
->>>>>>> new
+nothin to commit
